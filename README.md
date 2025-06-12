@@ -1,2 +1,2 @@
-Demo Portofolio
+Demo Portofolio using Lovable AI :)
 
